@@ -110,6 +110,17 @@ Output yang ditampilkan berdasarkan kondisi gudang.
 
 ![image](https://github.com/user-attachments/assets/ae72d526-a750-4b51-be2c-15d8c39e5a49)
 
+Peringatan kelembaban:
+
 ![image](https://github.com/user-attachments/assets/11e57a78-139b-490a-afcc-4512b91e1713)
 
+Peringatan suhu:
+
 ![image](https://github.com/user-attachments/assets/4b796e4a-f22b-4c84-9079-b23641138b01)
+
+Output gabungan:
+
+![image](https://github.com/user-attachments/assets/b56bb642-87e7-4845-9dc6-d8e020516d7a)
+
+![image](https://github.com/user-attachments/assets/560b60d1-4c76-4361-96cd-cc53af1c95ff)
+***
